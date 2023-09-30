@@ -1,3 +1,4 @@
+![logo](https://github.com/tehamialishah/tehamialishah/blob/main/main_image.gif)
 <h1 align="center">Hi 👋, I'm Tehami Ali Shah</h1>
 <h3 align="center">A passionate Android/IOS Developer from Pakistan 💚</h3>
 
